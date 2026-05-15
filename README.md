@@ -92,7 +92,7 @@ pkg install git nodejs ffmpeg imagemagick yarn -y
 
 # Download del bot
 cd ~
-git clone https://github.com/TUO-USERNAME/Gab333.git
+git clone https://github.com/darkos-creator/Gab333.git
 cd Gab333
 
 # Installazione e avvio
@@ -187,7 +187,7 @@ Create a personal copy of the bot on your GitHub account:
 1. Go to the [`config.js`](https://github.com/GabWT333/Gab333/blob/master/config.js) file
 2. Click the pencil icon ✏️ to edit
 3. Find the line with the owner number
-4. Insert **your WhatsApp number** (international format: +39 350 833 7404)
+4. Insert **your WhatsApp number** (international format: +39 328 696 7702)
 5. Save changes
 
 <a href="https://github.com/GabWT333/Gab333/blob/master/config.js">
