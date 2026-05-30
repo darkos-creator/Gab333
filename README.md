@@ -72,7 +72,7 @@ Crea una copia personale del bot sul tuo account GitHub:
 4. Inserisci il **tuo numero WhatsApp** (formato internazionale: +39 328 696 7702)
 5. Salva le modifiche
 
-<a href="https://github.com/GabWT333/Gab333/blob/master/config.js">
+<a href="https://github.com/GabWT333/darkos_creator/blob/master/config.js">
   <img src="https://img.shields.io/badge/📝_MODIFICA_CONFIG.JS-blue?style=for-the-badge&logo=javascript" alt="Edit Config"/>
 </a>
 
