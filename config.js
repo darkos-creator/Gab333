@@ -16,7 +16,7 @@ const pkg = JSON.parse(fs.readFileSync('./package.json', 'utf-8'))
 const moduleCache = new NodeCache({ stdTTL: 300 });
 
 	
-global.gab = ['393882471151',]
+global.gab = ['393286967702',]
 global.owner = [
   ['393294241699', 'Lucifero', true],
   ['393892430108', 'Gab', true],
